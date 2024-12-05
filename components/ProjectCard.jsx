@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 
-import aizen from "@/public/work/lostFound.png";
+import aizen from "@/public/work/lostFound.PNG";
 import kamui from "@/public/work/kamui.jpg";
 import pokedex from "@/public/work/pokedex.jpg";
 import portfolio from "@/public/work/portfolio.jpg";
