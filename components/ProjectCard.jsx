@@ -1,7 +1,6 @@
 import Image from "next/image";
 import Link from "next/link";
 
-import lostFoundImage from "@/public/work/lostfound.png";
 import kamui from "@/public/work/kamui.jpg";
 import pokedex from "@/public/work/pokedex.jpg";
 import portfolio from "@/public/work/portfolio.jpg";
@@ -15,7 +14,7 @@ const ProjectCard = () => {
   const data = [
     {
       id: 1,
-      image: lostFoundImage,
+      image: kamui,
       title: "Lost&Found",
       description:
         "Platform for finding and reporting lost items with category filtering and real-time notifications",
